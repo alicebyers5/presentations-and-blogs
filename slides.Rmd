@@ -1,0 +1,9 @@
+---
+output: html_document
+params:
+  folder: NULL
+---
+
+<br>
+
+# This page has moved to [alice-hannah.github.io](`r paste0("https://alice-hannah.github.io/presentations-and-blogs/", params$folder, "/slides.html")`).

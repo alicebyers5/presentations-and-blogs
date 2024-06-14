@@ -1,0 +1,5 @@
+---
+title: "Reproducible Analytical Pipelines: How we saved 3 analysts 6 weeks of copying and pasting"
+---
+
+This page has moved to [alice-hannah.github.io](https://alice-hannah.github.io/presentations-and-blogs/site/blogs/2023-07-24_sid-rap.html).

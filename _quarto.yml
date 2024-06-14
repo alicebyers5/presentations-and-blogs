@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: site
+  render:
+    - "index.qmd"
+    - "presentations.qmd"
+    - "blogs.qmd"
+    - "blogs/"
+    
+format: 
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
